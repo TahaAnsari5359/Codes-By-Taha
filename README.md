@@ -1,6 +1,9 @@
-For Odd and even program :
-enter number to check it is odd or even
+factorial of a number:
+
+Enter a number which u want a factorial
 
 
-For sum of  integers from 1 to 50 ( with for loops ):
-it prints adding number from 1 to 50 with using for loops
+calculation using math module:
+
+Enter a number
+it will automatic give values of square root, logarithm and sine
