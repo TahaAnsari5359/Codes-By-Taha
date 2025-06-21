@@ -1,13 +1,5 @@
-# Codes-By-Taha
+read file handles error :
+it read file named as sample.txt
 
-For simple calculator :-
-Enter number 1 
-Enter number 2
-It will automatic add, substract, multiple and divide the value u have given 
-
-
-for Greeting messege program :-
-enter ur 1st name
-Enter your surname
-
-it will generate a  greeting message
+adding data and appending it:
+it adds data which is wrriten on console and adds to output.txt file
