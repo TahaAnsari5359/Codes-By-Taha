@@ -1,13 +1,10 @@
 # Codes-By-Taha
 
-For simple calculator :-
-Enter number 1 
-Enter number 2
-It will automatic add, substract, multiple and divide the value u have given 
+dictionary with key value of marks:
+enter name and it will show u marks
 
 
-for Greeting messege program :-
-enter ur 1st name
-Enter your surname
-
-it will generate a  greeting message
+demonstrate list:
+1st list will print from 1 to 10 
+then it extract starting 5 number
+then it will reverse that numbers
